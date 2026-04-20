@@ -118,20 +118,10 @@ projeto-iot/
 └── README.md           # Este arquivo
 ```
 
-## 🚀 Próximas Melhorias
+## 📸 Imagens
 
-- [ ] Adicionarencriptação HTTPS
-- [ ] Suporte a múltiplos sensores
-- [ ] Sistema de cache local de dados
-- [ ] Interface web para visualização
-- [ ] Autenticação na API
-- [ ] Logs em armazenamento interno
+<img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/9946edb0-fc9b-4657-a8e0-6bdf94d33805" />
 
-## 📄 Licença
-
-Este projeto está disponível para uso educacional e comercial.
-
-## ✉️ Contato
 
 Para dúvidas ou sugestões, entre em contato com o desenvolvedor do projeto.
 
